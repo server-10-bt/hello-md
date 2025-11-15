@@ -1,0 +1,6 @@
+/auth
+node_modules/
+*.png
+*.log
+.env
+config.json
