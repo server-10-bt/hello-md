@@ -1,0 +1,15 @@
+{
+  "master": true,
+  "publicMode": false,
+  "features": {
+    "status": true,
+    "autosave": false,
+    "viewonce": true,
+    "bulk": false,
+    "search": true,
+    "ai": false,
+    "group": true,
+    "media": true,
+    "security": true
+  }
+}
